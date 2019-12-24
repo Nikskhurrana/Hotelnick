@@ -1,2 +1,2 @@
-# Hotelnick
-Hotels
+# colorlib-template
+
